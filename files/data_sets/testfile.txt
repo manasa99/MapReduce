@@ -1,0 +1,18 @@
+"a the quick brown fox jumps over the lazy dog",
+"b now is the time for all good men to come to the aid of their country",
+"c ask not what your country can do for you ask what you can do for your country"
+"d the quick brown fox jumps over the lazy dog",
+"e now is the time for all good men to come to the aid of their country",
+"f ask not what your country can do for you ask what you can do for your country"
+"g the quick brown fox jumps over the lazy dog",
+"h now is the time for all good men to come to the aid of their country",
+"i ask not what your country can do for you ask what you can do for your country"
+"j the quick brown fox jumps over the lazy dog",
+"k now is the time for all good men to come to the aid of their country",
+"l ask not what your country can do for you ask what you can do for your country"
+"m the quick brown fox jumps over the lazy dog",
+"n now is the time for all good men to come to the aid of their country",
+"o ask not what your country can do for you ask what you can do for your country"
+"p the quick brown fox jumps over the lazy dog",
+"q now is the time for all good men to come to the aid of their country",
+"r ask not what your country can do for you ask what you can do for your country"

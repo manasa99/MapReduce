@@ -1,0 +1,48 @@
+# config variables
+master_host = "master_host"
+master_port = "master_port"
+heartbeat_time = "heartbeat_time"
+common = "common"
+mapper = "mapper"
+reducer = "reducer"
+data_dir = "data_dir"
+try_to_connect = "try_to_connect"
+wait_time = "wait_time"
+# path variables
+log_file_path = "log_file_path"
+config_path = "config.cfg"
+
+# protocol variables
+connect = "connect"
+worker = "worker"
+workers = "workers"
+task = "task"
+tasks = "tasks"
+map = "map"
+reduce = "reduce"
+change = "change"
+show = "show"
+application_interface = "application_interface"
+change_status = "change status\r\n"
+desired_status = "desired_status"
+map_chunk_tail = "_map"
+red_file_head = "red_"
+
+# status variables
+up = "up"
+busy = "busy"
+mapping = "mapping"
+mapped = "mapped"
+reducing = "reducing"
+reduced = "reduced"
+queued = "queued"
+last_seen = "last_seen"
+error = "error"
+complete = "complete"
+
+# Test variables
+test = "test"
+base_path = "base_path"
+inputs = "inputs"
+outputs = "outputs"
+app_path = "app_path"
